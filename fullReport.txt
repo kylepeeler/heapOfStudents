@@ -1,0 +1,450 @@
+Student #1
+------------
+First Name: Roberta
+Last Name: Casey
+Address: 3668 Thunder Road, Palo Alto, CA 94306
+DOB: 2/13/1983
+Completion Date: 2/13/1983
+GPA: 2.978
+Credit Hours Completed: 95
+
+Student #2
+------------
+First Name: Sandra
+Last Name: Koch
+Address: 2707 Waterview Lane, Apt 302, Las Vegas, NM 87701
+DOB: 6/6/1972
+Completion Date: 6/6/1972
+GPA: 2.546
+Credit Hours Completed: 69
+
+Student #3
+------------
+First Name: Darrel
+Last Name: Dover
+Address: 845 Dola Mine Road, Wendell, NC 27591
+DOB: 3/31/1968
+Completion Date: 3/31/1968
+GPA: 3.958
+Credit Hours Completed: 75
+
+Student #4
+------------
+First Name: Doris
+Last Name: Turner
+Address: 4489 Tully Street, Apt B, Detroit, MI 48219
+DOB: 5/21/1988
+Completion Date: 5/21/1988
+GPA: 2.127
+Credit Hours Completed: 187
+
+Student #5
+------------
+First Name: Juan
+Last Name: Hernandez
+Address: 2656 Creekside Lane, Goleta, CA 93117
+DOB: 7/21/1979
+Completion Date: 7/21/1979
+GPA: 1.598
+Credit Hours Completed: 156
+
+Student #6
+------------
+First Name: Sandy
+Last Name: Moon
+Address: 1125 Joyce Street, Mobile, AL 36693
+DOB: 12/28/1977
+Completion Date: 12/28/1977
+GPA: 3.995
+Credit Hours Completed: 124
+
+Student #7
+------------
+First Name: Andre
+Last Name: Reid
+Address: 1225 Gnatty Creek Road, Westbury, NY 11590
+DOB: 12/19/1986
+Completion Date: 12/19/1986
+GPA: 2.985
+Credit Hours Completed: 112
+
+Student #8
+------------
+First Name: Tara
+Last Name: Cracraft
+Address: 3479 Austin Avenue, Brunswick, GA 31520
+DOB: 2/4/1973
+Completion Date: 2/4/1973
+GPA: 3.256
+Credit Hours Completed: 162
+
+Student #9
+------------
+First Name: Vincent
+Last Name: Valadez
+Address: 1740 Parkview Drive, Sugar Land, TX 77478
+DOB: 9/23/1975
+Completion Date: 9/23/1975
+GPA: 3.127
+Credit Hours Completed: 106
+
+Student #10
+------------
+First Name: William
+Last Name: Howard
+Address: 816 Wayside Lane, Hayward, CA 94545
+DOB: 4/9/1971
+Completion Date: 4/9/1971
+GPA: 3.568
+Credit Hours Completed: 95
+
+Student #11
+------------
+First Name: Gary
+Last Name: Mills
+Address: 2888 Rowes Lane, Irvington, KY 40146
+DOB: 4/22/1990
+Completion Date: 4/22/1990
+GPA: 3.759
+Credit Hours Completed: 127
+
+Student #12
+------------
+First Name: Victoria
+Last Name: Lett
+Address: 4250 Pringle Drive, Chicago, IL 60606
+DOB: 8/13/1987
+Completion Date: 8/13/1987
+GPA: 3.862
+Credit Hours Completed: 95
+
+Student #13
+------------
+First Name: William
+Last Name: Brice
+Address: 4332 Larry Street, Apt 456, New Berlin, WI 53151
+DOB: 1/11/1974
+Completion Date: 1/11/1974
+GPA: 3.215
+Credit Hours Completed: 69
+
+Student #14
+------------
+First Name: Craig
+Last Name: Hutchison
+Address: 3704 Green Street, Nashville, TN 37211
+DOB: 9/27/1969
+Completion Date: 9/27/1969
+GPA: 2.978
+Credit Hours Completed: 75
+
+Student #15
+------------
+First Name: Danielle
+Last Name: Taylor
+Address: 4900 Hudson Street, Haledon, NJ 7508
+DOB: 7/17/1983
+Completion Date: 7/17/1983
+GPA: 2.546
+Credit Hours Completed: 162
+
+Student #16
+------------
+First Name: Ermelinda
+Last Name: Gingerich
+Address: 3834 Milford Street, Apt F, Sunapee, NH 3782
+DOB: 12/17/1973
+Completion Date: 12/17/1973
+GPA: 3.958
+Credit Hours Completed: 106
+
+Student #17
+------------
+First Name: Derek
+Last Name: Moody
+Address: 264 Tetrick Road, Bowling Green, FL 33834
+DOB: 10/23/1980
+Completion Date: 10/23/1980
+GPA: 2.127
+Credit Hours Completed: 95
+
+Student #18
+------------
+First Name: Sonja
+Last Name: Howell
+Address: 1093 Olen Thomas Drive, P.O. Box 552, Wichita Falls, TX 76301
+DOB: 9/18/1984
+Completion Date: 9/18/1984
+GPA: 1.598
+Credit Hours Completed: 124
+
+Student #19
+------------
+First Name: Michael
+Last Name: Miser
+Address: 1532 South Street, Midland, TX 79701
+DOB: 10/25/1967
+Completion Date: 10/25/1967
+GPA: 3.995
+Credit Hours Completed: 75
+
+Student #20
+------------
+First Name: Robin
+Last Name: Davenport
+Address: 4174 Columbia Mine Road, Wheeling, WV 26003
+DOB: 3/9/1971
+Completion Date: 3/9/1971
+GPA: 2.985
+Credit Hours Completed: 187
+
+Student #21
+------------
+First Name: Joycelyn
+Last Name: Langley
+Address: 1254 Woodland Drive, Omaha, NE 68114
+DOB: 2/8/1979
+Completion Date: 2/8/1979
+GPA: 3.256
+Credit Hours Completed: 156
+
+Student #22
+------------
+First Name: Ann
+Last Name: Bryant
+Address: 1334 Progress Way, Minneapolis, MN 55401
+DOB: 2/28/1977
+Completion Date: 2/28/1977
+GPA: 3.127
+Credit Hours Completed: 124
+
+Student #23
+------------
+First Name: Patrick
+Last Name: Barnett
+Address: 2432 Warner Street, Casper, WY 82601
+DOB: 7/28/1977
+Completion Date: 7/28/1977
+GPA: 3.568
+Credit Hours Completed: 95
+
+Student #24
+------------
+First Name: Christopher
+Last Name: Knepp
+Address: 1012 Oakmound Road, Chicago, IL 60623
+DOB: 2/21/1968
+Completion Date: 2/21/1968
+GPA: 3.759
+Credit Hours Completed: 127
+
+Student #25
+------------
+First Name: Reginald
+Last Name: Canfield
+Address: 4212 Coal Street, Somerset, PA 15501
+DOB: 3/21/1988
+Completion Date: 3/21/1988
+GPA: 3.862
+Credit Hours Completed: 95
+
+Student #26
+------------
+First Name: Margarita
+Last Name: Lippert
+Address: 781 Hillcrest Lane, Fullerton, CA 93632
+DOB: 6/8/1978
+Completion Date: 6/8/1978
+GPA: 1.598
+Credit Hours Completed: 69
+
+Student #27
+------------
+First Name: Barbara
+Last Name: Kist
+Address: 2103 Mapleview Drive, Jackson, TN 38301
+DOB: 11/3/1980
+Completion Date: 11/3/1980
+GPA: 3.995
+Credit Hours Completed: 75
+
+Student #28
+------------
+First Name: Ladonna
+Last Name: Waters
+Address: 68 Oak Ridge Drive, Mexico, MO 65265
+DOB: 4/4/1969
+Completion Date: 4/4/1969
+GPA: 2.985
+Credit Hours Completed: 187
+
+Student #29
+------------
+First Name: Julio
+Last Name: Shepherd
+Address: 2446 Camden Street, Reno, NV 89502
+DOB: 6/23/1978
+Completion Date: 6/23/1978
+GPA: 3.256
+Credit Hours Completed: 156
+
+Student #30
+------------
+First Name: Antonio
+Last Name: Hernandez
+Address: 3232 Fairmont Avenue, Kansas City, MO 64106
+DOB: 3/12/1980
+Completion Date: 3/12/1980
+GPA: 3.127
+Credit Hours Completed: 124
+
+Student #31
+------------
+First Name: Sharon
+Last Name: Ridge
+Address: 3964 Stoney Lane, P.O. Box 549, Dallas, TX 75247
+DOB: 1/8/1991
+Completion Date: 1/8/1991
+GPA: 3.568
+Credit Hours Completed: 112
+
+Student #32
+------------
+First Name: Michael
+Last Name: Lambert
+Address: 2174 Kyle Street, Venango, NE 69168
+DOB: 10/6/1982
+Completion Date: 10/6/1982
+GPA: 3.759
+Credit Hours Completed: 162
+
+Student #33
+------------
+First Name: Michael
+Last Name: Tapp
+Address: 4569 Shobe Lane, Greeley, CO 80634
+DOB: 3/12/1972
+Completion Date: 3/12/1972
+GPA: 3.862
+Credit Hours Completed: 106
+
+Student #34
+------------
+First Name: Peggy
+Last Name: Lewis
+Address: 1601 Hall Valley Drive, Wheeling, WV 26003
+DOB: 5/1/1981
+Completion Date: 5/1/1981
+GPA: 1.598
+Credit Hours Completed: 127
+
+Student #35
+------------
+First Name: Darren
+Last Name: Smith
+Address: 2836 Briarwood Road, Springfield, MO 65804
+DOB: 5/26/1968
+Completion Date: 5/26/1968
+GPA: 3.995
+Credit Hours Completed: 95
+
+Student #36
+------------
+First Name: Jeffrey
+Last Name: Adair
+Address: 4478 Hillside Street, Phoenix, AZ 85016
+DOB: 7/3/1986
+Completion Date: 7/3/1986
+GPA: 2.985
+Credit Hours Completed: 69
+
+Student #37
+------------
+First Name: Tammy
+Last Name: Dorsey
+Address: 2111 Liberty Avenue, Los Angeles, CA 90017
+DOB: 10/19/1969
+Completion Date: 10/19/1969
+GPA: 3.958
+Credit Hours Completed: 106
+
+Student #38
+------------
+First Name: Robert
+Last Name: Lewis
+Address: 2253 Brannon Avenue, Jacksonville, FL 32216
+DOB: 8/6/1979
+Completion Date: 8/6/1979
+GPA: 2.127
+Credit Hours Completed: 95
+
+Student #39
+------------
+First Name: Helen
+Last Name: Quarles
+Address: 98 Mount Tabor, New York, NY 10013
+DOB: 9/5/1980
+Completion Date: 9/5/1980
+GPA: 3.995
+Credit Hours Completed: 75
+
+Student #40
+------------
+First Name: Catherine
+Last Name: Frey
+Address: 1504 Shobe Lane, Loveland, CO 80537
+DOB: 4/5/1981
+Completion Date: 4/5/1981
+GPA: 2.985
+Credit Hours Completed: 69
+
+Student #41
+------------
+First Name: Sophie
+Last Name: Ortiz
+Address: 977 Seltice Way, Apt 56, Boise, ID 83704
+DOB: 8/6/1976
+Completion Date: 8/6/1976
+GPA: 3.256
+Credit Hours Completed: 75
+
+Student #42
+------------
+First Name: Michael
+Last Name: McAbee
+Address: 959 Hall Street, Las Vegas, NV 89119
+DOB: 3/7/1991
+Completion Date: 3/7/1991
+GPA: 3.127
+Credit Hours Completed: 187
+
+Student #43
+------------
+First Name: David
+Last Name: Herrera
+Address: 3084 Hart Country Lane, Norcross, GA 30093
+DOB: 6/19/1981
+Completion Date: 6/19/1981
+GPA: 2.127
+Credit Hours Completed: 156
+
+Student #44
+------------
+First Name: Paul
+Last Name: Parry
+Address: 3425 Valley Street, Vineland, NJ 8360
+DOB: 12/17/1973
+Completion Date: 12/17/1973
+GPA: 1.598
+Credit Hours Completed: 124
+
+Student #45
+------------
+First Name: Lisa
+Last Name: Carter
+Address: 1809 Oak Ridge Drive, Rolla, MO 65401
+DOB: 2/25/1989
+Completion Date: 5/14/2012
+GPA: 3.995
+Credit Hours Completed: 112
+
